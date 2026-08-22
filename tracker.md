@@ -130,7 +130,14 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 
 ## ✅ Completed
 
-*Nothing logged yet — tracking began 2026-08-21. Earlier work isn't recorded here.*
+*Tracking began 2026-08-21. Earlier work isn't recorded here.*
+
+| Item | Lane | Source | Completed | Notes |
+|---|---|---|---|---|
+| **Major Key Blues Improvisation Mastery** | 🎸 3 · Solo | Art of Slow Blues | 2026-08-21 | 23 lessons |
+| **Slow Blues Lead Guitar Soloing and Improvisation** | 🎸 3 · Solo | Art of Slow Blues | 2026-08-21 | 74 lessons |
+
+**Art of Slow Blues — platform complete.** Both owned courses finished.
 
 ---
 
