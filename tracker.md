@@ -69,13 +69,47 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 
 | Active | Source | Started | Status | Notes |
 |---|---|---|---|---|
-| **All Your Love** — Magic Sam | [YouTube — Alex Farran Guitar](https://youtu.be/nq2Ubtd1uQo) | — | 🔄 active | **Can already play the tune — the goal here is improvising over it.** Lesson: *Magic Sam's Minor Blues Groove + Soloing study from basic to advanced*. Companion pack on disk: `Guitar/Blues/Magic Sam Minor Blues Groove.zip` — backing track, Guitar Pro `.gp`/`.gpx` and PDF, **in B minor**. Practise with two looper pedals (models TBD) |
+| **All Your Love** — Magic Sam | [YouTube — Alex Farran Guitar](https://youtu.be/nq2Ubtd1uQo) | — | 🔄 active | **Can already play the tune — the goal here is improvising over it.** Lesson: *Magic Sam's Minor Blues Groove + Soloing study from basic to advanced*. Companion pack on disk: `Guitar/Blues/Magic Sam Minor Blues Groove.zip` — backing track, Guitar Pro `.gp`/`.gpx` and PDF, **in B minor**. Practise with two looper pedals (models TBD).<br>**5 more lessons bookmarked** (Brave → Instruments → guitar → Songs → All your love): [Jon MacLennan](https://www.youtube.com/watch?v=BPC121thXnM) · [Johnny Burgin pt.1](https://www.youtube.com/watch?v=iosl8y3AbVQ) · [Chicago blues tutorial](https://www.youtube.com/watch?v=-OwkmTnZFKE) · [chords](https://www.youtube.com/watch?v=RVmZ_J_zqrk) · [another](https://www.youtube.com/watch?v=Azoz_zW3jjE) · paid tab on Sheet Music Direct |
 
-**On deck:**
+**On deck — songs to learn**
 
-| Item | Source | Note |
-|---|---|---|
-| All Your Love — John Mayall & the Bluesbreakers ft. Clapton | [YouTube](https://youtu.be/f8paagdbexE?si=JPvbLOl2x24GeP41) | Same tune, Clapton/Mayall arrangement, with tab — natural follow-on once the Magic Sam version is improvised over |
+*Material already on hand is listed so nothing gets bought or hunted for twice. Paths are relative to `Guitar/` on pCloud unless stated.*
+
+| # | Song | Artist | Material on hand |
+|---|---|---|---|
+| 1 | All Your Love | John Mayall & the Bluesbreakers ft. Clapton | [YouTube lesson with tab](https://youtu.be/f8paagdbexE?si=JPvbLOl2x24GeP41) — same tune as the active item, Clapton/Mayall arrangement |
+| 2 | The Thrill Is Gone | B.B. King | **Best covered song in the library.** TrueFire Song Lesson (Seth Rosenbloom, owned) · Lick Library *LTP — BB King* · JamPlay *Electric Blues* Lesson 23 · TXBA Song Guide · Guitar Play-Along Vol. 07 · Ultimate Blues Song Collection chart · 3 backing tracks. Multi-source study already sketched in the Practice Log |
+| 3 | Sweet Home Chicago | Magic Sam / Robert Johnson | JamPlay *Hawkeye Herman* Lesson 32 · Signature Licks — Robert Johnson · Greg Koch *Blues Guitar Method* · Blues Play-Along *Chicago Blues* Vol. 1 (own on paper) · Play Guitar With Blues Brothers · `Songs/FGA — Robert Johnson lesson.mp4`. Multi-source study in the Practice Log |
+| 4 | La Grange | ZZ Top | TXBA *La Grange Song Guide* · Guitar Play-Along Vol. 14 (audio + full) · Ultimate Blues Song Collection chart · 5 backing tracks |
+| 5 | Sunshine of Your Love | Cream | TrueFire Song Lesson (Chris Buono, **owned**) · Guitar Play-Along Vol. 01 · TheGuitarLesson.com video · 2 backing tracks |
+| 6 | Roadhouse Blues | The Doors | Guitar Play-Along Vol. 14 (audio + full) · 3 backing tracks |
+| 7 | Need Your Love So Bad | Fleetwood Mac | `Blues/DVDs and Videos/Artists/Peter Green Need your love so bad` · 2 backing tracks |
+| 8 | Black Magic Woman | Fleetwood Mac | [YouTube — Peter Green version for 1 guitar](https://youtu.be/-gdy74zAY0w?si=Z9yEv8vWFm5_GY7X). ⚠ Everything on disk is the **Santana** arrangement (TheGuitarLesson.com video, 3 backing tracks) — different feel from Peter Green's |
+| 9 | Blue Jeans Blues | ZZ Top | `Blues/Lick Library/ZZ TOP - Blue Jean Blues.mp3` · backing track |
+| 10 | As the Years Go Passing By | Jeff Healey | ⚠ On disk only as the **Gary Moore** version — Lick Library *Classic Albums: Still Got The Blues* · Gary Moore tab book, track 08 |
+| 11 | Ain't Nobody's Business What We Do | Freddie King | ⚠ Chart on disk is the **Taj Mahal** version — Ultimate Blues Song Collection Vol. 2 Disc 1 |
+| 12 | Green Onions | Booker T. & the M.G.'s | *nothing found — needs sourcing* |
+| 13 | Nobody Knows You When You're Down and Out | Eric Clapton | *nothing found — needs sourcing* |
+| 14 | Who Do You Love | George Thorogood & the Destroyers | *nothing found — needs sourcing* |
+| 15 | Tennessee Whiskey | Chris Stapleton | *nothing found — needs sourcing* |
+| 16 | Lonesome In My Bedroom | Luther Johnson | *nothing found — needs sourcing* |
+
+**Already researched — bookmark bundles in Brave → Instruments → guitar → Songs**
+
+*Each folder is a set of lessons, backing tracks, tabs and reference recordings already gathered.*
+
+| # | Song | Artist | Bookmarked | Also on disk |
+|---|---|---|---|---|
+| 17 | [My Babe](https://www.youtube.com/watch?v=WlJZ4qxo0ig) | Little Walter | 21 links — incl. a TrueFire lesson, [Burninguitar course](https://www.burninguitar.com/course/my-babe-little-walter/), GuitarInstructor, tab, backing track in F | `Songs/My Babe Guitar Course.zip` |
+| 18 | [Honky Tonk](https://www.youtube.com/watch?v=dCOiyv-1hm8) | Bill Doggett / Billy Butler | 15 links — 6 separate lessons incl. Jon MacLennan and a 2-part Old School R&B solo breakdown | `Blues/Lessons/Honky Tonk` and `Blues/DVDs and Videos/Lessons/Honky Tonk` |
+| 19 | [I'm Ready](https://www.youtube.com/watch?v=R_ki-OGEbA0) | Muddy Waters | 10 links — mostly reference versions, one lesson, lyrics | — |
+| 20 | [I Loved Another Woman](https://www.youtube.com/watch?v=EV2hFmWgnRs) | Fleetwood Mac (Peter Green) | 6 links — 5 lessons + [tab PDF](http://tyr0.chem.wsu.edu/~kipeters/guitar/I-loved-another-woman.pdf) | `Songs/I-loved-another-woman.pdf` |
+| 21 | [Baby What You Want Me To Do](https://www.youtube.com/watch?v=pS0I32ZYjvE) | Jimmy Reed | 4 links — 3 lessons + Bill Uhler's classic Reed riffs | `Songs/Baby what you want me to do Jimmy Reed.pdf` |
+| 22 | [Help Me](https://www.youtube.com/watch?v=VVTRgDyAfXk) | Sonny Boy Williamson II | 4 links — Dave Specter lesson + 2-part Sonny Boy guitar study | `Songs/Help me` |
+| 23 | [Messin' With The Kid](https://www.youtube.com/watch?v=M0mkHqPJQMM) | Junior Wells | 4 links — solo lesson + backing tracks in B and C | Chart in Ultimate Blues Song Collection |
+| 24 | [Lay Down Sally](https://www.licklibrary.com/store/courses/classic-albums-slowhand) | Eric Clapton | 1 link — Lick Library *Classic Albums: Slowhand* (not owned) | — |
+| 25 | [Cocaine](https://youtu.be/7Gii46lxIEw?si=CEgpAAk9TqcP105u) | Eric Clapton | Play-through for 1 guitar with TAB | — |
+| 26 | [Hideaway](https://youtu.be/qwspD9fiOUM?si=b0zcGAR_KpzPbsx1) | Freddie King / Clapton | Blues guitar lesson | — |
 
 #### 🎶 Repertoire — songs I can play
 
@@ -104,11 +138,7 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 | [Jazz Guitar for Beginners](https://truefire.com/beginner-guitar-lessons/how-to-play-jazz-guitar/c42) | TrueFire | **14% in** — Bruce Arnold: sweep picking + pull-offs, arpeggios/scales, minor 7th arpeggios over ii in a ii-V-I |
 | [Modern Method for Guitar](https://truefire.com/techniques-guitar-lessons/modern-method/c179) | TrueFire | **4% in** — Frank Vignola: 111 lessons, major scales in all 12 keys, improvisation, harmonizing melodies/scales |
 | [30 Authentic Blues Grooves You Must Know (2014)](<file:///Users/nenaddjordjevic/pCloud Drive/iCloud-Migration/MyBookLive/Guitar/Blues/DVDs and Videos/Lessons/Truefire .../Truefire - Jeff Mcerlain's 30 Authentic Blues Grooves You Must Know (2014)>) | TrueFire (local download, not in the online library) | **1/30 grooves** — Jeff McErlain, on Groove 1 *"Somebody Done Wrong"*. Video, tab/chart PDFs, GP5 files and jam tracks per groove |
-| [BB King – "The Thrill Is Gone" (FULL, downloadable)](https://www.guitarforce.com/downloads/bbking-the-thrill-is-gone-full/) | Guitarforce | Downloadable version of the same lesson already noted under Thrill Is Gone in Practice Log |
 | [Chicago Blues Lesson: Add Authentic Vintage Character to Your Blues Guitar Solos](https://youtu.be/jLeaGl2IYKI?si=6R7Gsx8WEtg86KRo) | YouTube | — |
-| [Black Magic Woman on Guitar - Fleetwood Mac (Peter Green version, for 1 guitar)](https://youtu.be/-gdy74zAY0w?si=Z9yEv8vWFm5_GY7X) | YouTube | — |
-| [Cocaine - Eric Clapton - Play-Through for 1 Guitar with TAB](https://youtu.be/7Gii46lxIEw?si=CEgpAAk9TqcP105u) | YouTube | — |
-| [Hideaway as Played by Eric Clapton - Blues Guitar Lesson](https://youtu.be/qwspD9fiOUM?si=b0zcGAR_KpzPbsx1) | YouTube | — |
 
 ---
 

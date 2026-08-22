@@ -4,8 +4,8 @@ Every guitar lesson resource I have, filed into four categories by where it came
 
 | # | Category | Contents |
 |---|---|---|
-| **1** | **YouTube** | Channels + playlists — listed below |
-| **2** | **Paid courses** | 7 platforms + DVD rips — listed below |
+| **1** | **YouTube** | Channels, playlists + per-song bookmark bundles — listed below |
+| **2** | **Paid courses** | 7 platforms + DVD rips · 16 more bookmarked, unconfirmed |
 | **3** | **Books** | Paper, Kindle, Mel Bay ebooks + Hal Leonard companion audio — listed below |
 | **4** | **Downloaded courses** | pCloud library, 643 GB — listed below at course level |
 
@@ -24,6 +24,22 @@ Sources to draw from, mainly improvisation and song lessons.
 | Alex Farran Guitar | https://www.youtube.com/@AlexFarranGuitar |
 | Active Melody | https://www.youtube.com/@activemelody |
 | Rusty's Guitar | https://www.youtube.com/@rustysguitar1 |
+
+## Song-lesson bookmark bundles
+
+*Brave → Bookmarks bar → Instruments → guitar → Songs. Nine folders, ~73 links — lessons, backing tracks, tabs and reference recordings gathered per tune. Songs are tracked in `tracker.md` lane 4; this is where the raw links live.*
+
+| Song | Links |
+|---|---|
+| My Babe — Little Walter | 21 |
+| Honky Tonk — Bill Doggett / Billy Butler | 15 |
+| I'm Ready — Muddy Waters | 10 |
+| All Your Love — Magic Sam | 6 |
+| I Loved Another Woman — Peter Green | 6 |
+| Baby What You Want Me To Do — Jimmy Reed | 4 |
+| Help Me — Sonny Boy Williamson II | 4 |
+| Messin' With The Kid | 4 |
+| Lay Down Sally — Clapton | 1 |
 
 ## Playlists
 
@@ -213,6 +229,29 @@ Brad Carlton 57 · Chris Buono 2. All titles are prefixed "Guitar Lab:" on TrueF
 | 5 | Dominant 7 Arpeggio Soloing Handbook |
 | 6 | Best of Corey's YouTube! |
 | 7 | Tone Talk! |
+
+## Other platforms — bookmarked, account status unconfirmed
+
+*From Brave → Bookmarks bar → Instruments → guitar → Courses (plus a few from the sibling folders), checked **2026-08-21**. These are sites bookmarked but not yet confirmed as owned or subscribed — leads, not inventory.*
+
+| # | Platform | URL | Note |
+|---|---|---|---|
+| 1 | Texas Blues Alley | texasbluesalley.com | **Material already on disk** — `Blues/DVDs and Videos/Lessons/TXBA`, incl. La Grange and Thrill Is Gone song guides |
+| 2 | LearningGuitarNow | learningguitarnow.com | **Material already on disk** — `Blues/Lessons/LearningGuitarNow` |
+| 3 | Guitarforce | guitarforce.com/category/blues/ | Referenced in the tracker for a B.B. King *Thrill Is Gone* lesson |
+| 4 | Secrets of Texas Blues Guitar | secretsoftexasbluesguitar.com | |
+| 5 | Stefan Grossman's Guitar Videos | guitarvideos.com | Acoustic/fingerstyle blues |
+| 6 | Jim Bruce — Acoustic Blues | jim-bruce.teachable.com | Texas-to-Delta fingerstyle |
+| 7 | SonicJunction — Duke Robillard | sonicjunction.com/duke-robillard | Also own two Robillard items on disk |
+| 8 | Guitar Mastery Method — Texas Blues Mastery | my.guitarmasterymethod.com | |
+| 9 | Justin Johnson Guitar Lessons | justinjohnsonguitar.com/catalog | |
+| 10 | Happy Bluesman | happybluesman.com | |
+| 11 | Learn to Play it Right | learntoplayitright.com | |
+| 12 | Jimmy Dillon — The Six String Man | jimmydillon.com | |
+| 13 | Rumsey Blues | rumseyblues.com/guitarlessons/ | |
+| 14 | Killer Guitar Academy | academy.killerguitarrigs.com | |
+| 15 | Fundamental Changes | fundamental-changes.com | Book publisher |
+| 16 | Musicians Institute Bookstore | musiciansinstitutebookstore.com | Publisher — many MI titles already on disk |
 
 ### DVD rips / disc images
 
