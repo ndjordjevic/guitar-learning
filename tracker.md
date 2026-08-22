@@ -44,7 +44,7 @@ They are **not equal weight**. Lanes 2 and 3 are where the real hours go; lane 4
 | Active | Source | Started | Status | Notes |
 |---|---|---|---|---|
 | **Blues Guitar Secrets 2.0** — Dan Denly | Physical DVDs (owned) + disc images on pCloud | — | 🔄 active | **Goal: finish it completely.** First course I ever bought, several years ago, and never finished. **Not beginner material** — it runs well past that. 5 discs ripped so far (`BGS_1–5.cdr`, 14 GB) at `Guitar/Blues/Lessons/Blues Guitar Secrets 2.0 Dan Denly`; **more physical DVDs still to rip** |
-| **Interval Mapping Protocol™** | [Fretwise](https://members.getfretwise.com/courses/caged-fretboard-visualisation-masterclass/) (owned) | — | 🔄 **20% in — finishing this up** | 28 lessons / 4 modules. CAGED fretboard visualisation built up from arpeggios → triads → pentatonics → scales → modes. Was in the Major/Minor CAGED workout modules; last activity June 17, 2026 |
+| **Interval Mapping Protocol™** | [Fretwise](https://members.getfretwise.com/courses/caged-fretboard-visualisation-masterclass/) (owned) | — | 🔄 **70% in — finishing this up** | 28 lessons / 4 modules. CAGED fretboard visualisation built up from arpeggios → triads → pentatonics → scales → modes. Past the Major and Minor CAGED workouts; what's left is mostly module 4, *Practice Ideas & Practical Applications* |
 
 **On deck:** *(nothing queued for this lane yet)*
 
