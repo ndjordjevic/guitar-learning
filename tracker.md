@@ -16,14 +16,18 @@ The plan, plus a running log of what I'm working on, what's finished, and what's
 
 ## 🗺️ Study Plan
 
-Practice runs in **four lanes**. Each lane's **Active** table is where current work lives — there is no separate "currently working on" list. A session touches some or all of the lanes. The lanes are about *what kind of practice it is*, not where the resource came from — see `resources.md` for the source library.
+Practice runs in **four lanes**. Each lane's **Active** table is where current work lives — there is no separate "currently working on" list. The lanes are about *what kind of practice it is*, not where the resource came from — see `resources.md` for the source library.
 
-| # | Lane | Holds |
-|---|------|-------|
-| 1 | 🎓 **Lesson / Course** | The structured thing being worked front-to-back |
-| 2 | 🥁 **Rhythm** | Comping, grooves, shuffles, chord work |
-| 3 | 🎸 **Solo / Improvisation** | Scales, arpeggios, phrasing, improv over changes |
-| 4 | 🎵 **Song / Repertoire** | Whole tunes, learned to completion |
+They are **not equal weight**. Lanes 2 and 3 are where the real hours go; lane 4 is what they are for; lane 1 is reference read lightly.
+
+| # | Lane | Holds | Weight |
+|---|------|-------|--------|
+| 1 | 🎓 **Lesson / Course** | Theory and reference | **Light** — skim, don't grind |
+| 2 | 🥁 **Rhythm** | Comping, grooves, shuffles, chord work | **Heavy** — real practice |
+| 3 | 🎸 **Solo / Improvisation** | Scales, arpeggios, phrasing, improv over changes | **Heavy** — real practice |
+| 4 | 🎵 **Song / Repertoire** | Whole tunes, learned to completion | **The point** — where 2 and 3 get used |
+
+> **The pipeline:** lanes 2 and 3 are the two jobs you actually do in a song — play rhythm behind it, and solo over it. Lane 4 is where that work gets spent on real tunes.
 
 > **Lanes 2 and 3 are a matched pair.** Chris Buono's *Blues Progressions* and *Blues Soloing* cover **the same 23 progressions × 3 choruses = 69 units**, one comping them and one soloing over them. Only the packaging differs: the rhythm course puts all three choruses of a progression in **one video**, while the soloing course splits each chorus into **its own video**.
 >
@@ -33,9 +37,9 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 
 ### 1. 🎓 Lesson / Course
 
-*Structured material worked front-to-back, in order. The backbone — this is what actually moves the level.*
+*Theory and structured reference. **Skimmed, not ground through** — this lane is background, not the driver. Keep the hours in lanes 2 and 3.*
 
-**What fits here:** Courses and method books from `resources.md` categories 2, 3 and 4. Best kept to **one primary** at a time; add a second only if it is short or covers a different skill.
+**What fits here:** Courses and method books from `resources.md` categories 2, 3 and 4. More than one is fine here precisely because the pace is light.
 
 | Active | Source | Started | Status | Notes |
 |---|---|---|---|---|
