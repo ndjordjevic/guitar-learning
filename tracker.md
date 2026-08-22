@@ -6,6 +6,12 @@ The plan, plus a running log of what I'm working on, what's finished, and what's
 
 **Legend:** `✅` owned / done · `🔍` level verified by actually working through the material, not a blurb · `🔄` in progress · `⏸` deliberately skipped or deferred
 
+## 📍 Where I am now
+
+**Intermediate.** Years of playing, on and off with long pauses — not a beginner, but not continuously practised either. Comfortable with the standard blues vocabulary; the gaps are in consistency and in the theory that connects what I already play.
+
+**This tracker starts 2026-08-21.** It records what I work on *from here* — it is not a history. An empty Completed section means tracking is new, not that nothing has been finished.
+
 ---
 
 ## 🗺️ Study Plan
@@ -34,6 +40,7 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 | Active | Source | Started | Status | Notes |
 |---|---|---|---|---|
 | **Blues Guitar Secrets 2.0** — Dan Denly | Physical DVDs (owned) + disc images on pCloud | — | 🔄 active | My first ever guitar course. 5 discs ripped so far (`BGS_1–5.cdr`, 14 GB) at `Guitar/Blues/Lessons/Blues Guitar Secrets 2.0 Dan Denly`; **more physical DVDs to add** |
+| **Interval Mapping Protocol™** | [Fretwise](https://members.getfretwise.com/courses/caged-fretboard-visualisation-masterclass/) (owned) | — | 🔄 **20% in — finishing this up** | 28 lessons / 4 modules. CAGED fretboard visualisation built up from arpeggios → triads → pentatonics → scales → modes. Was in the Major/Minor CAGED workout modules; last activity June 17, 2026 |
 
 **On deck:** *(nothing queued for this lane yet)*
 
@@ -123,7 +130,7 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 
 ## ✅ Completed
 
-*(none logged yet)*
+*Nothing logged yet — tracking began 2026-08-21. Earlier work isn't recorded here.*
 
 ---
 
@@ -131,7 +138,6 @@ Practice runs in **four lanes**. Each lane's **Active** table is where current w
 
 | Item | Platform | Notes |
 |---|---|---|
-| [Interval Mapping Protocol™](https://members.getfretwise.com/courses/caged-fretboard-visualisation-masterclass/) | Fretwise | **20% in** — fretboard visualization via CAGED; was in the Major/Minor CAGED workout modules. Last activity June 17, 2026 |
 | [Essential Blues Lead Concepts (JamPlay)](https://truefire.com/guitar-lessons/essential-blues-lead-concepts/c2356) | TrueFire | **9% in** — Rob Garland: CAGED-based lead/soloing, bends, Stormy Monday-style progressions |
 | [Essential Blues Chord Voicings (JamPlay)](https://truefire.com/guitar-lessons/essential-blues-chord-voicings/c2361) | TrueFire | **7% in** — Rob Garland: CAGED-based blues chord voicings, turnarounds, tritone subs |
 | [One Chord Blues Jam](https://truefire.com/c2330) | TrueFire | **14% in** — Nick Russo: hybrid picking dyads, blue-note bends, Texas shuffle feel over a one-chord vamp |
