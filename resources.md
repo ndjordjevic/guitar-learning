@@ -271,7 +271,7 @@ Paper, Kindle and Mel Bay are books outright. **Hal Leonard MyLibrary is mixed**
 
 *From cover photos, catalogued **2026-08-21**.*
 
-### Instruction (17)
+### Instruction (20)
 
 | # | Book | Author |
 |---|---|---|
@@ -292,6 +292,9 @@ Paper, Kindle and Mel Bay are books outright. **Hal Leonard MyLibrary is mixed**
 | 15 | Blues Play-Along Vol. 1 — Chicago Blues | Hal Leonard |
 | 16 | Blues Play-Along Vol. 3 — Slow Blues | Hal Leonard |
 | 17 | Blues Play-Along Vol. 4 — Shuffle Blues | Hal Leonard |
+| 18 | Blues Rhythm Guitar — MI Master Class *(68 demo tracks; audio in Hal Leonard MyLibrary)* | Keith Wyatt |
+| 19 | B.B. King — The Definitive Collection *(Guitar Signature Licks, CD)* | Wolf Marshall |
+| 20 | Blues Guitar Songs For Dummies *(35 blues classics, notation + tab + performance notes)* | Greg P. Herriges |
 
 ### Gear & maintenance (2)
 
@@ -357,7 +360,7 @@ Paper, Kindle and Mel Bay are books outright. **Hal Leonard MyLibrary is mixed**
 | Blues Guitar Technique | audio + video | paper |
 | Buddy Guy — Teachin' the Blues | audio | paper |
 | A Modern Method for Guitar — Complete | audio + video | paper |
-| Blues Rhythm Guitar | audio | *book not catalogued* |
+| Blues Rhythm Guitar | audio | paper |
 | Blues Songs for Beginners — Easy Guitar Play-Along Vol. 7 | audio | Kindle |
 | Slow Blues — Guitar Play-Along Vol. 94 | audio | Kindle |
 | Stevie Ray Vaughan — Guitar Play-Along Vol. 49 | audio | Kindle |
