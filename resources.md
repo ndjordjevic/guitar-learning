@@ -250,7 +250,7 @@ Brad Carlton 57 · Chris Buono 2. All titles are prefixed "Guitar Lab:" on TrueF
 | 12 | Jimmy Dillon — The Six String Man | jimmydillon.com | |
 | 13 | Rumsey Blues | rumseyblues.com/guitarlessons/ | |
 | 14 | Killer Guitar Academy | academy.killerguitarrigs.com | |
-| 15 | Fundamental Changes | fundamental-changes.com | Book publisher |
+| 15 | Fundamental Changes | fundamental-changes.com | Book publisher — 6 titles already owned, see Category 4h |
 | 16 | Musicians Institute Bookstore | musiciansinstitutebookstore.com | Publisher — many MI titles already on disk |
 
 ### DVD rips / disc images
@@ -573,7 +573,7 @@ Offline library on pCloud:
 
 Also in this folder: **Jazz** — one item, *Anyone Can Play Jazz Guitar*.
 
-## 4h. Blues / Books (85)
+## 4h. Blues / Books (85 + 6 Fundamental Changes)
 
 | # | Item | Note |
 |---|---|---|
@@ -662,6 +662,17 @@ Also in this folder: **Jazz** — one item, *Anyone Can Play Jazz Guitar*.
 | 83 | Musicians Institute — Chord Tone Soloing.pdf |  |
 | 84 | Musicians Institute — Guitar Reading 1.pdf |  |
 | 85 | Musicians Institute — Guitar Reading 2.pdf |  |
+
+**Fundamental Changes set (6)** — `Blues/Books/Fundamental Changes...`, checked **2026-09-19**. Each PDF has a matching audio `.zip` on disk.
+
+| # | Item | Author | Note |
+|---|---|---|---|
+| 1 | Beginner Blues Guitar Soloing — *The Complete Guide to Mastering the Language & Techniques of Blues Guitar* (107pp) | Joseph Alexander | |
+| 2 | The Chicago Blues Guitar Method — *Learn Chicago Blues Rhythm Guitar and Soloing* (116pp) | Andi Saitenhieb | |
+| 3 | The Complete Guide to Playing Blues Guitar: Compilation (240pp) — Book 1 Rhythm Guitar · Book 2 Melodic Phrasing · Book 3 Beyond Pentatonics | Joseph Alexander | Audio folder already extracted (`Complete Blues Compilation Book 1/2/3`) alongside the zip |
+| 4 | Modern Blues Guitar Phrasing — *Learn to Transform the Ideas of Your Musical Heroes Into Your Own Unique Voice* (85pp) | Josh Smith | PDF filename says "Josh-Smith-Blues-Guitar-Influences" but the book itself is titled *Modern Blues Guitar Phrasing* |
+| 5 | Modern Blues Guitar Soloing — *Master The Art of Modern Blues-Rock Guitar in 100 Killer Licks* (91pp) | Josh Smith | |
+| 6 | Walking Bass for Jazz & Blues — *The Complete Walking Bass Method* (80pp) | Nick Clark | Bass, not part of the guitar plan |
 
 ## 4i. Guitar / Courses (3)
 
