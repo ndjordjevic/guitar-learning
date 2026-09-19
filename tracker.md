@@ -44,8 +44,9 @@ They are **not equal weight**. Lanes 2 and 3 are where the real hours go; lane 4
 | Active | Source | Started | Status | Notes |
 |---|---|---|---|---|
 | **Blues Guitar Secrets 2.0** — Dan Denly | Physical DVDs (owned) + disc images on pCloud | — | 🔄 active | **Goal: finish it completely.** First course I ever bought, several years ago, and never finished. **Not beginner material** — it runs well past that. 5 discs ripped so far (`BGS_1–5.cdr`, 14 GB) at `Guitar/Blues/Lessons/Blues Guitar Secrets 2.0 Dan Denly`; **more physical DVDs still to rip** |
+| **Beginner Blues Guitar Soloing** — Joseph Alexander | Book — Fundamental Changes (owned, `Blues/Books/Fundamental Changes...`) | 2026-09-19 | 🔄 Ch. 1 of 12 done | 107pp, matching audio zip on disk. Ch.1 *The 12-Bar Blues* (pp.7–17) done. Ahead: Ch.2 Minor Pentatonic, Ch.3 Bends, Ch.4 Rhythm, Ch.5 Vibrato/Slides/B.B. Box, Ch.6 Moving Up the Neck, Ch.7 Major Pentatonic, Ch.8 the V Chord, Ch.9 Turnarounds, Ch.10 Q&A Phrasing, Ch.11–12 soloing scheme + final solos |
 
-**On deck:** *(nothing queued for this lane yet)*
+**On deck:** *(nothing else queued for this lane yet)*
 
 ### 2. 🥁 Rhythm
 
