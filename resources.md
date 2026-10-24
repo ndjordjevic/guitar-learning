@@ -1,6 +1,6 @@
 # Guitar Resource Library
 
-Every guitar lesson resource I have, filed into four categories by where it came from. Nothing here is a commitment to study it — items move to `tracker.md` when I actually pick them up.
+Every guitar lesson resource I have, filed into four categories by where it came from. Bass material is kept apart in Category 5 so it doesn't mix with the guitar plan. Nothing here is a commitment to study it — items move to `tracker.md` when I actually pick them up.
 
 | # | Category | Contents |
 |---|---|---|
@@ -8,6 +8,7 @@ Every guitar lesson resource I have, filed into four categories by where it came
 | **2** | **Paid courses** | 7 platforms + DVD rips · 16 more bookmarked, unconfirmed |
 | **3** | **Books** | Paper, Kindle, Mel Bay ebooks + Hal Leonard companion audio — listed below |
 | **4** | **Downloaded courses** | pCloud library, 643 GB — listed below at course level |
+| **5** | **Bass** | TrueFire bass courses, bass books + the pCloud `Bass` folder — kept separate from the guitar plan |
 
 ---
 
@@ -102,17 +103,7 @@ Sources to draw from, mainly improvisation and song lessons.
 
 ### Owned — Bass (7)
 
-*Not part of the guitar study plan — kept for completeness.*
-
-| # | Course | Educator |
-|---|---|---|
-| 1 | Essentials: Blues Bass | Stu Hamm |
-| 2 | 50 Blues Bass Licks You Must Know | Jasper Mortier |
-| 3 | Blues Bass Survival Guide | Andrew Ford |
-| 4 | Blues Bass | Brad Carlton |
-| 5 | Jump Start Bass Guitar | Brad Carlton |
-| 6 | Blues Bass with Larry Cook | Larry Cook |
-| 7 | Blues Bass Crossover | Jeff Denson |
+*Listed in **Category 5 — Bass**.*
 
 ### Song Lessons (5)
 
@@ -498,7 +489,7 @@ Offline library on pCloud:
 | 6 | David Hamburger — The Acoustic Guitar Fingerstyle Method (Homespun, 2012) |  |
 | 7 | David Hamburger — Essentials: Fingerstyle Blues (2015) |  |
 | 8 | David Hamburger — Fingerstyle Blues Factory (2014) |  |
-| 9 | Brad Carlton — Jump Start Bass Guitar (2011) | ⚠ own on TrueFire (bass) |
+| 9 | Brad Carlton — Jump Start Bass Guitar (2011) | ⚠ own on TrueFire (bass) — see Category 5 |
 | 10 | Brad Carlton — Rhythmic Grooves (2007) | ⚠ duplicated below as *Rhythmic Grooves* |
 | 11 | Brad Carlton — Rhythmology (2010) |  |
 | 12 | Brad Carlton — CAGED Cracked for Guitar |  |
@@ -573,7 +564,7 @@ Offline library on pCloud:
 
 Also in this folder: **Jazz** — one item, *Anyone Can Play Jazz Guitar*.
 
-## 4h. Blues / Books (85 + 6 Fundamental Changes)
+## 4h. Blues / Books (85 + 5 Fundamental Changes)
 
 | # | Item | Note |
 |---|---|---|
@@ -663,7 +654,7 @@ Also in this folder: **Jazz** — one item, *Anyone Can Play Jazz Guitar*.
 | 84 | Musicians Institute — Guitar Reading 1.pdf |  |
 | 85 | Musicians Institute — Guitar Reading 2.pdf |  |
 
-**Fundamental Changes set (6)** — `Blues/Books/Fundamental Changes...`, checked **2026-09-19**. Each PDF has a matching audio `.zip` on disk.
+**Fundamental Changes set (5)** — `Blues/Books/Fundamental Changes...`, checked **2026-09-19**. Each PDF has a matching audio `.zip` on disk. The sixth book, *Walking Bass for Jazz & Blues*, moved to Category 5 — Bass on **2026-10-24**.
 
 | # | Item | Author | Note |
 |---|---|---|---|
@@ -672,7 +663,6 @@ Also in this folder: **Jazz** — one item, *Anyone Can Play Jazz Guitar*.
 | 3 | The Complete Guide to Playing Blues Guitar: Compilation (240pp) — Book 1 Rhythm Guitar · Book 2 Melodic Phrasing · Book 3 Beyond Pentatonics | Joseph Alexander | Audio folder already extracted (`Complete Blues Compilation Book 1/2/3`) alongside the zip |
 | 4 | Modern Blues Guitar Phrasing — *Learn to Transform the Ideas of Your Musical Heroes Into Your Own Unique Voice* (85pp) | Josh Smith | PDF filename says "Josh-Smith-Blues-Guitar-Influences" but the book itself is titled *Modern Blues Guitar Phrasing* |
 | 5 | Modern Blues Guitar Soloing — *Master The Art of Modern Blues-Rock Guitar in 100 Killer Licks* (91pp) | Josh Smith | |
-| 6 | Walking Bass for Jazz & Blues — *The Complete Walking Bass Method* (80pp) | Nick Clark | Bass, not part of the guitar plan. PDF + audio zip moved to `MyBookLive/Bass` on **2026-10-24** |
 
 ## 4i. Guitar / Courses (3)
 
@@ -696,3 +686,44 @@ Eric Clapton · Gary Moore · Jimi Hendrix · Led Zeppelin · Pink Floyd · SRV 
 | Blues / Ultimate Blues Song Collection | 84 song-chart PDFs (Vol. 1, discs 1–4) |
 | Guitar / Songs | ~20 loose PDFs, MP3s and tabs — incl. 10 Days To Fretboard Freedom, Corey Congilio's Arpeggio Handbook ⚠ both owned properly |
 | Blues / Magic Sam Minor Blues Groove.zip | Single lesson zip |
+
+---
+
+# Category 5 — Bass
+
+*Bass guitar material, kept separate from the guitar study plan. Bass work is tracked in its own section of `tracker.md`.*
+
+## Books (1)
+
+| # | Item | Author | Location | Note |
+|---|---|---|---|---|
+| 1 | Walking Bass for Jazz & Blues — *The Complete Walking Bass Method* (80pp, Fundamental Changes, 2019) | Nick Clark | `MyBookLive/Bass/Walking-Bass-for-Jazz-and-Blues-PDF-Edition.pdf` + `Walking Bass.zip` (audio) | Moved from `Guitar/Blues/Books/Fundamental Changes...` on **2026-10-24**. 10 chapters: arpeggios → chromatic/scale tones → blues → major ii-V-I → jazz blues → minor ii-V-i → other progressions → 3/4 → inversions → rhythmic variations |
+
+## TrueFire courses — owned (7)
+
+*Re-checked in the TrueFire dashboard on **2026-08-21**.*
+
+| # | Course | Educator | Note |
+|---|---|---|---|
+| 1 | Essentials: Blues Bass | Stu Hamm | Some charts + audio already in the pCloud `Bass` folder (below) |
+| 2 | 50 Blues Bass Licks You Must Know | Jasper Mortier | |
+| 3 | Blues Bass Survival Guide | Andrew Ford | |
+| 4 | Blues Bass | Brad Carlton | |
+| 5 | Jump Start Bass Guitar | Brad Carlton | Also on disk in `Guitar/Blues/DVDs and Videos/Truefire .../` (Category 4e #9) |
+| 6 | Blues Bass with Larry Cook | Larry Cook | |
+| 7 | Blues Bass Crossover | Jeff Denson | |
+
+## pCloud `Bass` folder
+
+```
+/Users/nenaddjordjevic/pCloud Drive/iCloud-Migration/MyBookLive/Bass/
+```
+
+| Item | Note |
+|---|---|
+| Walking Bass for Jazz & Blues — PDF + audio zip | See Books above |
+| `shebb-002/005/008/011/014.pdf` | Stu Hamm, *Essentials: Blues Bass* charts — "Bassic" Blues Form · Walking Blues · Shuffle Blues in G · Minor Blues · Slow Walking Blues |
+| `shebb-002.mp3`, `shebb-008.mp3` | Matching audio for "Bassic" Blues Form and Shuffle Blues in G |
+| `All of your love Magic Sam BT No Bass.mp3` | Backing track with no bass part, to play bass over |
+
+*Not bass guitar despite the name: David Hamburger's* Take 5: Steady Bass *(Category 4e #5) is a fingerstyle guitar course on alternating-thumb bass lines.*

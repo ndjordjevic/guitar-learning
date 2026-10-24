@@ -1,6 +1,6 @@
 # Blues Guitar — Study Plan & Tracker
 
-The plan, plus a running log of what I'm working on, what's finished, and what's queued. See `resources.md` for the full four-category resource library.
+The plan, plus a running log of what I'm working on, what's finished, and what's queued. See `resources.md` for the full resource library. Bass has its own section near the end, separate from the guitar lanes.
 
 **Focus:** Blues first. Jazz comes later and deliberately — jazz vocabulary is already being studied on tenor sax, so the guitar side should *reuse* that theory rather than relearn it. See `../sax-learning/jazz-blues-sax-books-analysis.md`.
 
@@ -129,6 +129,18 @@ They are **not equal weight**. Lanes 2 and 3 are where the real hours go; lane 4
 | Song | Artist | Learned | Level reached |
 |---|---|---|---|
 | *(empty)* | | | |
+
+---
+
+## 🎸 Bass
+
+*A separate track from the guitar plan above. Bass resources are in `resources.md` Category 5.*
+
+| Active | Source | Started | Status | Notes |
+|---|---|---|---|---|
+| **Walking Bass for Jazz & Blues** — Nick Clark | Book — Fundamental Changes (owned, `MyBookLive/Bass`) | 2026-10-24 | 🔄 just started | 80pp, audio zip alongside. Ch.1 Arpeggios · Ch.2 Chromatic & Scale Tones · Ch.3 Blues Progression · Ch.4 Major ii-V-I · Ch.5 Jazz Blues · Ch.6 Minor ii-V-i · Ch.7 Other Progressions · Ch.8 Walking in 3/4 · Ch.9 Inversions · Ch.10 Rhythmic Variations · Putting It All Together |
+
+**On deck:** *(nothing queued yet. The 7 owned TrueFire bass courses are listed in `resources.md` Category 5)*
 
 ---
 
