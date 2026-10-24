@@ -672,7 +672,7 @@ Also in this folder: **Jazz** — one item, *Anyone Can Play Jazz Guitar*.
 | 3 | The Complete Guide to Playing Blues Guitar: Compilation (240pp) — Book 1 Rhythm Guitar · Book 2 Melodic Phrasing · Book 3 Beyond Pentatonics | Joseph Alexander | Audio folder already extracted (`Complete Blues Compilation Book 1/2/3`) alongside the zip |
 | 4 | Modern Blues Guitar Phrasing — *Learn to Transform the Ideas of Your Musical Heroes Into Your Own Unique Voice* (85pp) | Josh Smith | PDF filename says "Josh-Smith-Blues-Guitar-Influences" but the book itself is titled *Modern Blues Guitar Phrasing* |
 | 5 | Modern Blues Guitar Soloing — *Master The Art of Modern Blues-Rock Guitar in 100 Killer Licks* (91pp) | Josh Smith | |
-| 6 | Walking Bass for Jazz & Blues — *The Complete Walking Bass Method* (80pp) | Nick Clark | Bass, not part of the guitar plan |
+| 6 | Walking Bass for Jazz & Blues — *The Complete Walking Bass Method* (80pp) | Nick Clark | Bass, not part of the guitar plan. PDF + audio zip moved to `MyBookLive/Bass` on **2026-10-24** |
 
 ## 4i. Guitar / Courses (3)
 
