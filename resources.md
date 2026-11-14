@@ -68,7 +68,7 @@ Sources to draw from, mainly improvisation and song lessons.
 
 *Counts and titles re-checked directly in the logged-in TrueFire dashboard on **2026-08-21**.*
 
-### Owned — Guitar (28)
+### Owned — Guitar (29)
 
 | # | Course | Educator |
 |---|---|---|
@@ -100,6 +100,7 @@ Sources to draw from, mainly improvisation and song lessons.
 | 26 | Take 5: Blues Comping | Jeff McErlain |
 | 27 | 10 Guitar Licks You Must Know | TrueFire |
 | 28 | Top 20 Guitar Lessons: 2021 (FREE) | TrueFire |
+| 29 | Improvising Jazz Changes: Standards *(bought **2026-11-14** for its Autumn Leaves lessons: chords & form, comping, improv)* | Ted Ludwig |
 
 ### Owned — Bass (7)
 

@@ -81,6 +81,7 @@ They are **not equal weight**. Lanes 2 and 3 are where the real hours go; lane 4
 | Active | Source | Started | Status | Notes |
 |---|---|---|---|---|
 | **All Your Love** — Magic Sam | [YouTube — Alex Farran Guitar](https://youtu.be/nq2Ubtd1uQo) | — | 🔄 active | **Can already play the tune — the goal here is improvising over it.** Lesson: *Magic Sam's Minor Blues Groove + Soloing study from basic to advanced*. Companion pack on disk: `Guitar/Blues/Magic Sam Minor Blues Groove.zip` — backing track, Guitar Pro `.gp`/`.gpx` and PDF, **in B minor**. Practise with two looper pedals (models TBD).<br>**5 more lessons bookmarked** (Brave → Instruments → guitar → Songs → All your love): [Jon MacLennan](https://www.youtube.com/watch?v=BPC121thXnM) · [Johnny Burgin pt.1](https://www.youtube.com/watch?v=iosl8y3AbVQ) · [Chicago blues tutorial](https://www.youtube.com/watch?v=-OwkmTnZFKE) · [chords](https://www.youtube.com/watch?v=RVmZ_J_zqrk) · [another](https://www.youtube.com/watch?v=Azoz_zW3jjE) · paid tab on Sheet Music Direct |
+| **Autumn Leaves** — jazz standard (chord changes) | TrueFire — *Improvising Jazz Changes: Standards*, Ted Ludwig (owned) | 2026-11-14 | 🔄 just started | **Goal: comp the changes**, not solo yet. Course lessons: *The Chords and the Form* → *Comping Performance* → *Comping Insights & Takeaways* (Improv lessons later). Key G minor, 32-bar AABC; built from a major ii-V-I to Bb (Cm7 F7 Bbmaj7 Ebmaj7) and a minor ii-V-i to Gm (Am7b5 D7 Gm6). Jazz side item — an exception to the blues-first focus |
 
 **On deck — songs to learn**
 
